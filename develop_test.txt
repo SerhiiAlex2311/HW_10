@@ -1,0 +1,2 @@
+Prioriti; mediym
+Severity; critical
